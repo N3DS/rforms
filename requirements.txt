@@ -1,6 +1,6 @@
-Flask==0.12
-flask-sqlalchemy==2.1
-requests==2.12.1
+Flask==2.1.2
+flask-sqlalchemy==2.5.1
+requests==2.27.1
 Flask-SSLify==0.1.5
-markdown==2.6.8
-psycopg2==2.7.1
+markdown==3.3.7
+psycopg2==2.9.3
